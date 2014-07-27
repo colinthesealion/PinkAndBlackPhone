@@ -1,0 +1,7 @@
+<h1>AG1170 Breakout</h1>
+
+<p>A breakout board for the AG1170.</p>
+
+<p>Provides a 6-pin header for: power, ground, off-hook, ring phone, audio in and autio out.</p>
+
+<p>Has an on-board 555 timer for oscilating the ringing polarity.</p>
